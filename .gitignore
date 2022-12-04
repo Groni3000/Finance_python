@@ -5,6 +5,8 @@ Scripts/jupyter*.exe
 Scripts/ipython*.exe
 Scripts/pywin32*.py
 Scripts/pygmentize.exe
+Scripts/black.exe
+Scripts/blackd.exe
 share/
 
 # Byte-compiled / optimized / DLL files
